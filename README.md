@@ -10,6 +10,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_tessarion/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/victorrodriguesoliveira0@gmail.com)
 
+[![Victor-R-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira)](https://github.com/Victor-R-Oliveira/github-readme-stats)
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
+
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
