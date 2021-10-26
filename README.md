@@ -1,11 +1,10 @@
-# Boas-vindas! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-## Sou Victor Oliveira. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> Sou estudante de desenvolvimento web no segmento Front-end.
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> Atualmente estou aprendendo as 3 principais tecnologias do ambiente web: HTML, CSS e JavaScript.
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif width="20"> Estou procurando evoluir como programador colaborando com projetos pequenos voltados ao Front-end.
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif width="20"> Planejo criar um projeto grande no futuro.
+# Boas-vindas <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> I'm a web development student in the Front-end segment.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> I'm currently learning the 3 main technologies of the web environment: HTML, CSS and JavaScript.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif width="20"> I'm looking to evolve as a programmer collaborating with small projects aimed at Front-end environment.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif width="20"> I plan to create a big project in the future.
 
-## Contatos
+## How to reach me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-R-Oliveira)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=+5561983192503)
