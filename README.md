@@ -1,7 +1,9 @@
 # Boas-vindas! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 ## Sou Victor Oliveira. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"> Sou estudante de desenvolvimento web no segmento Front-end.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> Sou estudante de desenvolvimento web no segmento Front-end.
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> Atualmente estou aprendendo as 3 principais tecnologias do ambiente web: HTML, CSS e JavaScript.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif width="20"> Estou procurando evoluir como programador colaborando com projetos pequenos voltados ao Front-end.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif width="20"> Planejo criar um projeto grande no futuro.
 
 ## Contatos
 
@@ -12,7 +14,7 @@
 
 [![Victor-R-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira)](https://github.com/Victor-R-Oliveira/github-readme-stats)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
+<img src=https://cutewallpaper.org/21/matrix-gif-background/Code-Matrix-Sticker-by-Chris-Cubellis-for-iOS-and-Android-GIPHY.gif width="500">
 
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
