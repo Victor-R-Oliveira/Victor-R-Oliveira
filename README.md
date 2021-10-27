@@ -17,6 +17,9 @@
 
 [![Victor-R-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira)](https://github.com/Victor-R-Oliveira/github-readme-stats)
 
+<p align="center"> Visitantes </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Victor-R-Oliveira/count.svg" /></p>
+
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
