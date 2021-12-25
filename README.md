@@ -21,7 +21,7 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Victor-R-Oliveira/count.svg" /></p>
 
 <div>
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Victor-R-Oliveira/Victor-R-Oliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
