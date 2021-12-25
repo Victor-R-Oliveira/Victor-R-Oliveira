@@ -20,6 +20,8 @@
 <p align="center"> Visitantes </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Victor-R-Oliveira/count.svg" /></p>
 
+![Snake animation](https://github.com/Victor-R-Oliveira/Victor-R-Oliveira/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
