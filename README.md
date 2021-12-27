@@ -1,4 +1,6 @@
 # Welcome <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+![](https://visitor-badge.laobi.icu/badge?page_id=Victor-R-Oliveira.Victor-R-Oliveira)
+[![Github](https://img.shields.io/github/followers/Victor-R-Oliveira?label=Follow&style=social)](https://github.com/Victor-R-Oliveira)
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> I'm a web development student in the Front-end segment.
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> I'm currently learning the 3 main technologies of the web environment: HTML, CSS and JavaScript.
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif width="20"> I'm looking to evolve as a programmer collaborating with small projects aimed at Front-end environment.
@@ -15,12 +17,11 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.r.olliveira/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/victorrodriguesoliveira0@gmail.com)
 
-[![Victor-R-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira)](https://github.com/Victor-R-Oliveira/github-readme-stats)
-
-<p align="center"> Visitantes </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Victor-R-Oliveira/count.svg" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-R-Oliveira&theme=tokyonight)
 
 ![Snake animation](https://github.com/Victor-R-Oliveira/Victor-R-Oliveira/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
