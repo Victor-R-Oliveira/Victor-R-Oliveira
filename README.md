@@ -17,8 +17,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-R-Oliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-R-Oliveira&theme=tokyonight)
 
-![Snake animation](https://github.com/Victor-R-Oliveira/Victor-R-Oliveira/blob/output/github-contribution-grid-snake.svg)
-
 
 <!---
 Victor-R-Oliveira/Victor-R-Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
